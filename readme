@@ -1,0 +1,20 @@
+
+            _.---._    /\\
+         ./'       "--`\//			instantane - brainfuck interpreter
+       ./              o \			Oct 9 2024
+      /./\  )______   \__ \
+     ./  / /\ \   | \ \  \ \
+        / /  \ \  | |\ \  \7
+         "     "    "  "
+
+    ~ About:
+        brainfuck interpreter implemented in x86 for the seek of
+        learning and fun, it's so fucking fast, that's all what
+        i can say fr.
+
+    ~ Credits:
+        * brainfuck programs: https://brainfuck.org/
+        * Aardvark ascii art by VK
+
+    juan diego pm
+    Oct 9 2024
